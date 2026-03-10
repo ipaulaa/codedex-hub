@@ -12,16 +12,15 @@ This repository contains exercises, experiments, and notes created while progres
 # 📚 Courses
 
 The following **Codédex** courses are being completed in sequence.
+More courses can be added later as the learning roadmap evolves.
 | # | Status | Course |
 |----|:------:|--------|
-| 01 | 🟢 | **[Command Line](https://codedex.io)** |
-| 02 | 🟢 | **[Git & GitHub](https://codedex.io)** |
-| 03 | ⚪ | **[HTML](https://codedex.io)** |
-| 04 | ⚪ | **[Learn CSS](https://codedex.io)** |
-| 05 | ⚪ | **[JavaScript](https://codedex.io)** |
-| 06 | ⚪ | **[Intermediate JavaScript](https://codedex.io)** |
-| 07 | ⚪ | **[Node.js](https://codedex.io)** |
-| 08 | ⚪ | **[React](https://codedex.io)** |
+| 01 | 🟢 | **[Command Line](https://codedex.io/command-line)** |
+| 02 | 🟢 | **[Git & GitHub](https://codedex.io/git-github)** |
+| 03 | ⚪ | **[Python](https://codedex.io/python)** |
+| 04 | ⚪ | **[Intermediate Python](https://codedex.io/intermediate-python)** |
+| 05 | ⚪ | **[SQL](https://codedex.io/sql)** |
+| 06 | ⚪ | **[NumPy](https://codedex.io/numpy)** |
 
 > [!NOTE]
 > Status legend:
@@ -40,12 +39,10 @@ Courses are organized using numbered folders to preserve the learning order.
 .
 ├── 01-command-line
 ├── 02-git-github
-├── 03-html
-├── 04-css
-├── 05-javascript
-├── 06-intermediate-javascript
-├── 07-nodejs
-└── 08-react
+├── 03-python
+├── 04-intermediate-python
+├── 05-sql
+└── 06-numpy
 ```
 
 Each course generally follows the structure used by **_Codédex_**.
