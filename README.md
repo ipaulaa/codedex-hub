@@ -17,7 +17,7 @@ More courses can be added later as the learning roadmap evolves.
 |----|:------:|--------|
 | 01 | 🟢 | **[Command Line](https://codedex.io/command-line)** |
 | 02 | 🟢 | **[Git & GitHub](https://codedex.io/git-github)** |
-| 03 | ⚪ | **[Python](https://codedex.io/python)** |
+| 03 | 🟡 | **[Python](https://codedex.io/python)** |
 | 04 | ⚪ | **[Intermediate Python](https://codedex.io/intermediate-python)** |
 | 05 | ⚪ | **[SQL](https://codedex.io/sql)** |
 | 06 | ⚪ | **[NumPy](https://codedex.io/numpy)** |
