@@ -1,0 +1,6 @@
+[project]
+name = "03-python"
+version = "0.1.0"
+description = "exercises and solutions for the codédex 03-python course"
+requires-python = ">=3.14"
+dependencies = []
