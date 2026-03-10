@@ -1,4 +1,5 @@
-# Fun Fact: During my school years, I attended 10 different schools!
+# Fun Fact: During my school years,
+# I attended 10 different schools!
 
 print('PPPP     A    BBBB   RRRR')
 print('P   P   A A   B   B  R   R')
