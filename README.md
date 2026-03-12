@@ -71,7 +71,14 @@ When a bonus exercise exists for a given number, it is appended with a letter su
 | `09b2-bonus`  | Second bonus for exercise 09 |
 | `09b3-bonus`  | Third bonus for exercise 09  |
 
-`b` always stands for **bonus**. When there are multiple bonuses for the same exercise, a number is appended (`b2`, `b3`, ...). The first bonus has no number to keep it clean.
+> [!NOTE]
+> Bonus exercises use the suffix `b` (for **bonus**).
+>
+> If more than one bonus exists for the same exercise, a number is added
+> after the suffix (`b2`, `b3`, ...).
+>
+> The first bonus does **not** include a number to keep the naming
+> convention simple.
 
 ---
 
