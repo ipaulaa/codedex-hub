@@ -59,6 +59,20 @@ course
 
 Because each course on **Codédex** is structured differently, the internal layout of chapters and exercises may vary between courses.
 
+### Exercise Numbering
+
+Exercises within a chapter follow a sequential numeric naming convention.
+When a bonus exercise exists for a given number, it is appended with a letter suffix.
+
+| Folder        | Description                  |
+| ------------- | ---------------------------- |
+| `09-exercise` | Regular exercise             |
+| `09b-bonus`   | Bonus for exercise 09        |
+| `09b2-bonus`  | Second bonus for exercise 09 |
+| `09b3-bonus`  | Third bonus for exercise 09  |
+
+`b` always stands for **bonus**. When there are multiple bonuses for the same exercise, a number is appended (`b2`, `b3`, ...). The first bonus has no number to keep it clean.
+
 ---
 
 ## `workspace/`
