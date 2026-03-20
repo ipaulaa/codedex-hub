@@ -54,6 +54,7 @@ course
 ├── chapter
 │   └── exercises
 ├── assets
+├── challenge-packs
 └── workspace
 ```
 
@@ -82,6 +83,23 @@ When a bonus exercise exists for a given number, it is appended with a letter su
 
 ---
 
+## `assets/`
+
+Some exercises require downloading external files such as images, datasets, or other resources.
+
+These files are stored in the course's **`assets/`** directory.
+
+> [!IMPORTANT]
+> The **`assets/`** directory only exists when **required** by a course.
+
+---
+
+## `challenge-packs/`
+
+The **`challenge-packs/`** directory contains optional exercises designed to reinforce learning through additional practice and exploration.
+
+---
+
 ## `workspace/`
 
 The **`workspace/`** directory contains files and directories created while completing course exercises.
@@ -93,17 +111,6 @@ Some Codédex exercises require working directly with the filesystem — creatin
 > These repositories are not tracked by this project to avoid conflicts with version control.
 >
 > 👉 See **[📦 Separate Repositories](#-separate-repositories)** for more details.
-
----
-
-## `assets/`
-
-Some exercises require downloading external files such as images, datasets, or other resources.
-
-These files are stored in the course's **`assets/`** directory.
-
-> [!IMPORTANT]
-> The **`assets/` directory only exists when **required\*\* by a course.
 
 ---
 
